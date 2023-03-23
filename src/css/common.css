@@ -16,3 +16,10 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.btn-color {
+  font-size: 50px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  display: block;
+}
